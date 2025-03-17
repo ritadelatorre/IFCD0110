@@ -1,0 +1,25 @@
+
+body {
+  font-family: Nunito, 'Open Sans', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-left: 50px;
+  margin-right: 100px;
+  -webkit-user-select: none; /* Compatibilidad con WebKit */
+  user-select: none; /* Para navegadores modernos */
+
+}
+
+code {
+  color:blue;
+  background-color: #eeeeee;
+  font-weight: bold;
+}
+
+summary {
+  background-color: steelblue;
+  font-size: 1.1em;
+  font-weight: bold;
+  color: white
+}
+details {
+  border:#dddddd solid 1px;
+}
